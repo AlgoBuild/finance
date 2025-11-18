@@ -43,7 +43,7 @@ Video Demo: https://youtu.be/MEFGApoIBTs
 
 ## Running
 - flask run
-- Then open the URL printed in the terminal (typically http://127.0.0.1:5000)
+- Then open the URL printed in the terminal (http://127.0.0.1:5000)
 
 ## Usage Notes
 - Register a new account, then login
