@@ -1,6 +1,7 @@
 # CS50 Finance
 
 A Flask web application that simulates a stock trading platform: register/login, get stock quotes, buy/sell shares, view portfolio and transaction history, and change password. Built as part of the CS50 Finance problem set.
+
 Video Demo: https://youtu.be/MEFGApoIBTs
 
 
